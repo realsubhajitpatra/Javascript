@@ -1,2 +1,2 @@
-# javascript_hindi
+# javascript_practice
 just for practice
